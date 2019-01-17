@@ -1,6 +1,6 @@
 # clojureauth
 
-FIXME
+A very minimal project that shows how simple session-based authentication works (ring-based) Clojure web apps
 
 ## Prerequisites
 
@@ -14,6 +14,8 @@ To start a web server for the application, run:
 
     lein ring server
 
+or run the `-main` function from within the REPL
+
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 Maximilian Gerlach
